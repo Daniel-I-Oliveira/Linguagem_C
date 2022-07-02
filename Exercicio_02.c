@@ -3,10 +3,10 @@
 #include<stdio.h>
 #include<windows.h>
 
-main()
+int main()
 {
     SetConsoleOutputCP(CP_UTF8);
-    
+
     float num1, num2, num3, num4, media;
 
     printf("Insira a primeira nota: ");
