@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<Windows.h>
 
-main()
+int main()
 {
     int numero, antecessor, sucessor;
 
